@@ -1,5 +1,0 @@
-train: ../train/images
-val: ../val/images
-
-nc: 4
-names: ['leaf','stem','flower','fruit']
